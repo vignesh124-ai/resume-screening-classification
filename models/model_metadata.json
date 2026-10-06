@@ -1,0 +1,52 @@
+{
+  "classes": [
+    "ACCOUNTANT",
+    "ADVOCATE",
+    "AGRICULTURE",
+    "APPAREL",
+    "ARTS",
+    "AUTOMOBILE",
+    "AVIATION",
+    "BANKING",
+    "BPO",
+    "BUSINESS-DEVELOPMENT",
+    "CHEF",
+    "CONSTRUCTION",
+    "CONSULTANT",
+    "DESIGNER",
+    "DIGITAL-MEDIA",
+    "ENGINEERING",
+    "FINANCE",
+    "FITNESS",
+    "HEALTHCARE",
+    "HR",
+    "INFORMATION-TECHNOLOGY",
+    "PUBLIC-RELATIONS",
+    "SALES",
+    "TEACHER"
+  ],
+  "num_classes": 24,
+  "dataset_size": 2484,
+  "test_size": 497,
+  "train_size": 1987,
+  "models": {
+    "MultinomialNB": {
+      "accuracy": 0.5553319919517102,
+      "macro_f1": 0.4992332054347118,
+      "weighted_f1": 0.5294466750537441,
+      "filename": "model_nb.joblib"
+    },
+    "CalibratedLinearSVC": {
+      "accuracy": 0.6981891348088531,
+      "macro_f1": 0.6577324022099047,
+      "weighted_f1": 0.6902363865237654,
+      "filename": "model_svc.joblib"
+    },
+    "LogisticRegression": {
+      "accuracy": 0.6519114688128773,
+      "macro_f1": 0.603092362029629,
+      "weighted_f1": 0.6389238880071306,
+      "filename": "model_lr.joblib"
+    }
+  }
+}

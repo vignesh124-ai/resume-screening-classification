@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Data Scientist / ML Researcher",
+    "text": "Data scientist skilled in Python, machine learning, deep learning, data analysis, pandas, numpy and predictive modeling. Experienced in feature engineering, hyperparameter tuning, scikit-learn, PyTorch, and deploying models to cloud environments."
+  },
+  {
+    "title": "Front-End Web Developer",
+    "text": "Front-end web developer experienced in HTML, CSS, JavaScript, React, Bootstrap and responsive web design. Proficient in Redux, TypeScript, Tailwind CSS, REST API integration, and modern web application development."
+  },
+  {
+    "title": "DevOps & Cloud Engineer",
+    "text": "DevOps engineer experienced in Docker, Kubernetes, CI/CD pipelines, Jenkins and cloud deployment. Skilled in Terraform, AWS, Linux system administration, microservices monitoring with Prometheus and Grafana."
+  },
+  {
+    "title": "Software Testing & QA Engineer",
+    "text": "Software testing engineer skilled in manual testing, automation testing using Selenium and bug tracking tools. Proficient with JIRA, Postman API testing, test plan creation, regression testing, and CI/CD quality gates."
+  },
+  {
+    "title": "Graphic & UI/UX Designer",
+    "text": "Graphic designer experienced in Adobe Photoshop, Illustrator, UI/UX design, branding and digital media design. Proficient in Figma, typography, color theory, wireframing, prototyping, and design systems."
+  },
+  {
+    "title": "High School Mathematics Teacher",
+    "text": "High school mathematics teacher experienced in curriculum planning, student assessment, classroom management and interactive teaching. Skilled in STEM education, pedagogy, student engagement, and parent-teacher communication."
+  },
+  {
+    "title": "Cybersecurity & Network Engineer",
+    "text": "Network security specialist experienced in cybersecurity, firewalls, intrusion detection systems and network monitoring. Skilled in SIEM, vulnerability assessment, penetration testing, Cisco routers, VPNs, and zero-trust security."
+  },
+  {
+    "title": "HR Manager & Talent Acquisition",
+    "text": "HR Manager with expertise in talent acquisition, recruitment life cycle, employee onboarding, payroll, performance management, labor law compliance, HR policies, conflict resolution, and employee relations."
+  },
+  {
+    "title": "Financial Analyst & Investment Specialist",
+    "text": "Financial analyst with strong background in financial modeling, equity valuation, budgeting, cash flow forecasting, variance analysis, Excel VBA, capital markets, risk management, and financial reporting."
+  },
+  {
+    "title": "Executive Chef & Kitchen Director",
+    "text": "Executive Chef with over 10 years of experience in fine dining, culinary arts, menu engineering, kitchen management, HACCP food safety standards, inventory control, and culinary team leadership."
+  }
+]
